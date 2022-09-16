@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15.541" height="15.5" viewBox="0 0 15.541 15.5">
+  <g id="그룹_2961" data-name="그룹 2961" transform="translate(-393.55 -313.866)">
+    <g id="그룹_2952" data-name="그룹 2952" transform="translate(396.199 313.866)">
+      <path id="패스_405" data-name="패스 405" d="M408.7,319.589h-9.261a.49.49,0,0,1-.491-.491v-4.742a.49.49,0,0,1,.491-.491H408.7a.49.49,0,0,1,.491.491V319.1A.49.49,0,0,1,408.7,319.589Zm-8.77-.981h8.28v-3.761h-8.28Z" transform="translate(-398.951 -313.866)" fill="#fff"/>
+    </g>
+    <g id="그룹_2953" data-name="그룹 2953" transform="translate(393.55 318.608)">
+      <path id="패스_406" data-name="패스 406" d="M408.6,331.1h-3.376v-.981h2.886v-5.609H394.531v5.609h2.885v.981H394.04a.49.49,0,0,1-.491-.491v-6.59a.49.49,0,0,1,.491-.491H408.6a.49.49,0,0,1,.491.491v6.59A.49.49,0,0,1,408.6,331.1Z" transform="translate(-393.55 -323.534)" fill="#fff"/>
+    </g>
+    <g id="그룹_2954" data-name="그룹 2954" transform="translate(396.925 322.839)">
+      <path id="패스_407" data-name="패스 407" d="M408.73,338.686h-7.809a.49.49,0,0,1-.491-.491v-5.546a.49.49,0,0,1,.491-.491h7.809a.49.49,0,0,1,.49.491V338.2A.49.49,0,0,1,408.73,338.686Zm-7.318-.981h6.828V333.14h-6.828Z" transform="translate(-400.431 -332.159)" fill="#fff"/>
+    </g>
+    <g id="그룹_2955" data-name="그룹 2955" transform="translate(399.146 325.199)">
+      <line id="선_1" data-name="선 1" x2="4.462" fill="#fff"/>
+    </g>
+    <g id="그룹_2956" data-name="그룹 2956" transform="translate(399.146 324.923)">
+      <rect id="사각형_2294" data-name="사각형 2294" width="4.462" height="0.615" fill="#fff"/>
+    </g>
+    <g id="그룹_2957" data-name="그룹 2957" transform="translate(399.146 326.85)">
+      <line id="선_2" data-name="선 2" x2="4.462" fill="#fff"/>
+    </g>
+    <g id="그룹_2958" data-name="그룹 2958" transform="translate(399.146 326.449)">
+      <rect id="사각형_2295" data-name="사각형 2295" width="4.462" height="0.615" fill="#fff"/>
+    </g>
+    <g id="그룹_2960" data-name="그룹 2960" transform="translate(405.885 320.298)">
+      <g id="그룹_2959" data-name="그룹 2959" transform="translate(0 0)">
+        <path id="패스_408" data-name="패스 408" d="M420.18,327.571h-.593v-.593h.593Zm-.889,0H418.7v-.593h.593Z" transform="translate(-418.698 -326.978)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

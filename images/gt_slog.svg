@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="303" height="97" viewBox="0 0 303 97">
+  <defs>
+    <filter id="Total_Life_Care_Service" x="0" y="0" width="225" height="52" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="꿈꾸던_라이프의_시작" x="0" y="27" width="303" height="70" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3.5" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="그룹_2876" data-name="그룹 2876" transform="translate(-27.5 -163.5)">
+    <g transform="matrix(1, 0, 0, 1, 27.5, 163.5)" filter="url(#Total_Life_Care_Service)">
+      <text id="Total_Life_Care_Service-2" data-name="Total Life Care Service" stroke-linecap="round" fill="#fff" stroke="rgba(0,0,0,0.1)" transform="translate(11.5 31.5)" stroke-width="1" font-size="20" font-family="NotoSansCJKkr-DemiLight, Noto Sans CJK KR DemiLight" font-weight="300"><tspan x="0" y="0">Total Life Care Service</tspan></text>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 27.5, 163.5)" filter="url(#꿈꾸던_라이프의_시작)">
+      <text id="꿈꾸던_라이프의_시작-2" data-name="꿈꾸던 라이프의 시작" stroke-linecap="round" fill="#fff" stroke="rgba(0,0,0,0.1)" transform="translate(11.5 72.5)" stroke-width="1" font-size="32" font-family="NotoSansCJKkr-Bold, Noto Sans CJK KR" font-weight="700"><tspan x="0" y="0">꿈꾸던 라이프의 시작</tspan></text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="27" height="27" viewBox="0 0 27 27">
+  <g id="그룹_3039" data-name="그룹 3039" transform="translate(-138 -83)">
+    <g id="그룹_2803" data-name="그룹 2803" transform="translate(138 83)">
+      <circle id="타원_36" data-name="타원 36" cx="13.5" cy="13.5" r="13.5" fill="#a7915f"/>
+    </g>
+    <g id="그룹_2809" data-name="그룹 2809" transform="translate(144.545 87.598)">
+      <rect id="사각형_2002" data-name="사각형 2002" width="1.46" height="1.46" transform="translate(4.016 3.117)" fill="#fff"/>
+      <rect id="사각형_2003" data-name="사각형 2003" width="1.46" height="1.46" transform="translate(6.449 3.117)" fill="#fff"/>
+      <rect id="사각형_2004" data-name="사각형 2004" width="1.46" height="1.46" transform="translate(8.882 3.117)" fill="#fff"/>
+      <rect id="사각형_2005" data-name="사각형 2005" width="1.46" height="1.46" transform="translate(4.016 5.873)" fill="#fff"/>
+      <rect id="사각형_2006" data-name="사각형 2006" width="1.46" height="1.46" transform="translate(6.449 5.873)" fill="#fff"/>
+      <rect id="사각형_2007" data-name="사각형 2007" width="1.46" height="1.46" transform="translate(8.882 5.873)" fill="#fff"/>
+      <rect id="사각형_2008" data-name="사각형 2008" width="1.46" height="1.46" transform="translate(4.016 8.629)" fill="#fff"/>
+      <rect id="사각형_2009" data-name="사각형 2009" width="1.46" height="1.46" transform="translate(6.449 8.629)" fill="#fff"/>
+      <rect id="사각형_2010" data-name="사각형 2010" width="1.46" height="1.46" transform="translate(8.882 8.629)" fill="#fff"/>
+      <path id="패스_342" data-name="패스 342" d="M356.965,934.778h-1.282V918.519a.411.411,0,0,0-.411-.411H345.124a.411.411,0,0,0-.411.411v16.258H343.43a.411.411,0,0,0,0,.823h13.535a.411.411,0,0,0,0-.823Zm-5.55-.107h-2.434v-3.687h2.434Zm3.445.107h-2.622v-4.206a.411.411,0,0,0-.411-.411H348.57a.411.411,0,0,0-.411.411v4.206h-2.623V918.931h9.325Z" transform="translate(-343.019 -918.108)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
